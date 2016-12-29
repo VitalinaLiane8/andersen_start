@@ -50,7 +50,8 @@
   padding:         13px 0 13px 8px;
 
   border:         none;
-  border-left:    solid 1px var(--border-much-light-gray);
+  /* border-left:    solid 1px var(--border-much-light-gray); */
+	border-left:    solid 1px #eaeaea;
 
   background:     white url(../../images/11_head_menu/search.jpg) 97% 50% no-repeat;
 

@@ -13,3 +13,62 @@
   font-size: 14px;
   font-family: 'OpenSans', Arial, sans-serif;
 }
+
+#head_menu_logo {
+  display: inline-block;
+  float:         left;
+  width:         32%;
+  padding: 12px 0;
+}
+
+#head_menu_logo A {}
+#head_menu_logo IMG {
+  /* DO: margin-left:   50%; */
+  margin-left:   26%;
+  width: 145px;
+  height: 20px;
+  /* border: black 1px solid; */
+}
+#head_menu_sandwich_catalog_and_search {}
+
+
+#head_menu__links {
+  display: inline-block;
+  float:        right;
+  width:        27.1%;
+  margin-right: 16.3%
+
+  /* border: black 1px solid; */
+}
+
+#head_menu__links A {
+  /* color: var(--text-light-gray); */
+	color: rgba(0, 0, 0, 0.54);
+}
+#head_menu__links A {
+  text-decoration: none;
+}
+
+
+#head_menu__links___builds {
+  float: left;
+  padding: 15px 5px;
+
+  background-color: white;
+}
+
+#head_menu__links___sign_in {
+  float: left;
+  padding: 15px 16px 15px 8px;
+
+  background-color: white;
+}
+
+#head_menu__links___sign_up {
+  padding: 14px 6px;
+
+  background-color: var(--background-button-blue);
+}
+#head_menu__links___sign_up A {
+  color: white;
+}
