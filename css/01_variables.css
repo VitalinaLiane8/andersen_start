@@ -1,0 +1,19 @@
+HTML {
+  --main-background-color:        #f6f6f6;
+
+  --background-much-light-gray:   #fafafa;   /* head_menu__catalog */
+  --background-button-blue:       #428bca;   /* head_menu__sign_up */
+
+  /* BORDER */
+  --border-much-light-gray:       #eaeaea;
+  /* TEXT */
+  --text-dark-grey:               #333;
+  --text-dark-gray:               #333;
+  --text-light-gray:              rgba(0, 0, 0, 0.54);
+  --text-light-brown:             #bba896;
+  /*
+  opacity: .2
+  is
+  --text-much-light-gray:    #d2d2d2;
+  */
+}

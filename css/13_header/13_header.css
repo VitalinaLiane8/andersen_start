@@ -1,0 +1,7 @@
+@import         '_header_block.css';
+@import         '_header_btn.css';
+
+/* HEADER */
+#header {
+  width: 100%;
+}

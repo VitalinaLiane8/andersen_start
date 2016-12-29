@@ -1,0 +1,15 @@
+#head_menu_logo {
+  display: inline-block;
+  float:         left;
+  width:         32%;
+  padding: 12px 0;
+}
+
+#head_menu_logo A {}
+#head_menu_logo IMG {
+  /* DO: margin-left:   50%; */
+  margin-left:   26%;
+  width: 145px;
+  height: 20px;
+  /* border: black 1px solid; */
+}

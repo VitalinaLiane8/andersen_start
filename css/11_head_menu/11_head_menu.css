@@ -1,0 +1,15 @@
+@import         '_head_menu_logo.css';
+@import         '_head_menu_sandwich_catalog_and_search.css';
+@import         '_head_menu__links.css';
+
+/* NAV {} */
+#head_menu {
+  padding: 10px 0;
+
+  background-color: white;
+
+  line-height: 21px;
+
+  font-size: 14px;
+  font-family: 'OpenSans', Arial, sans-serif;
+}

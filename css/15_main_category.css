@@ -1,0 +1,14 @@
+/* MAIN {} */
+#main {}
+
+/* MAIN > SECTION {} */
+#main_categories {}
+
+/* #body_categories > SECTION {} */
+.main_category {}
+
+
+
+/* #body_category_block
+   in
+   body_category_block.css */
