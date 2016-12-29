@@ -4,12 +4,13 @@
   float:              left;
   width:              24.5%;
 
- /* border:             solid 1px var(--border-much-light-gray);*/
+  /* border:             solid 1px var(--border-much-light-gray);*/
+  border:             solid 1px #eaeaea;
   /* border: black 1px solid; */
 
   /* color:              var(--text-light-gray);
   background-color:   var(--background-much-light-gray); */
-	color:              rgba(0, 0, 0, 0.54);
+  color:              rgba(0, 0, 0, 0.54);
   background-color:   #fafafa;
 }
 
